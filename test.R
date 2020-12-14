@@ -1,5 +1,5 @@
 context("Check adja_mat, hub and authority functions")
-source("Final project.R")
+source("final_project.R")
 
 
 all_cites <- read.csv("allcites.txt", header = F, sep = " ")
